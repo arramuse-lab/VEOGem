@@ -2,6 +2,9 @@
 
 Website generator video sederhana berbasis HTML, CSS, dan JavaScript murni yang siap dihubungkan ke **Google Veo API** (`:predictLongRunning`) maupun **Gemini Omni Video** (`/v1beta/interactions`).
 
+  <img alt="VEOGEM." src="ss.png">
+  
+
 ## Fitur Utama
 - **Text-to-Video & Image-to-Video:** Input prompt, negative prompt, dan unggah gambar referensi (first frame).
 - **Kontrol Parameter:** Pilihan model (termasuk Custom Model ID), rasio aspek (`16:9` / `9:16`), resolusi (`720p` / `1080p`), dan durasi.
