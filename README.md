@@ -1,4 +1,4 @@
-# Veo Studio — Google Veo Video Generator
+# Veo Studio - Google Veo Video Generator
 
 Website generator video sederhana berbasis HTML, CSS, dan JavaScript murni yang siap dihubungkan ke **Google Veo API** (`:predictLongRunning`) maupun **Gemini Omni Video** (`/v1beta/interactions`).
 
@@ -17,7 +17,7 @@ Website generator video sederhana berbasis HTML, CSS, dan JavaScript murni yang 
 
 ### Opsi 2: Menggunakan Backend Proxy (Disarankan untuk Produksi)
 Membutuhkan Node.js v18+:
-1. Salin `.env.example` menjadi `.env` lalu isi `GEMINI_API_KEY` (dan `GEMINI_API_BASE_URL` jika pakai endpoint kustom).
+1. Salin `.env.example` menjadi `.env` lalu isi `GEMINI_API_KEY` (dan `GEMINI_API_BASE_URL` jika pakai endpoint kustom) yang didapat dari Google ai studio akun.
 2. Jalankan:
    ```bash
    node server.js
