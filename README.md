@@ -31,3 +31,5 @@ Membutuhkan Node.js v18+:
 - **Google Veo (`:predictLongRunning`):** Mendukung model seperti `veo-3.1-generate-001`, `veo-3.1-fast-generate-001`, atau model kustom sesuai endpoint Anda.
 - **Gemini Omni (`/interactions`):** Jika menggunakan API Key standar Google AI Studio (di mana model preview Veo lama telah dialihkan ke `gemini-omni-1.2-flash`), pilih mode **Gemini Omni (/interactions)** di antarmuka web.
 - Anda bisa mengganti **Base URL API** melalui tombol **API Key & Konfigurasi** di kanan atas jika menggunakan endpoint Vertex AI, gateway, atau proxy kustom.
+
+By raa
